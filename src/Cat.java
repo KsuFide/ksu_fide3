@@ -19,6 +19,8 @@ public class Cat {
         this.name = name;
         this.age = age;
         this.color = color;
+        this.color = color;
+        this.color = color;
     }
 
     public void eat() {
